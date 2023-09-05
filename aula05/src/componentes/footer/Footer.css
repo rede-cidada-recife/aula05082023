@@ -1,0 +1,14 @@
+.teste{
+
+    color:blue;
+}
+
+.rodape{
+    /* bottom: 50%;
+    top: 50%;
+    margin: auto 0; */
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
